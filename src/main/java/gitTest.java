@@ -9,6 +9,6 @@ public class gitTest {
         System.out.println("hello Git 2");
         System.out.println("hello Git 3");
         System.out.println("hello Git 4");
-
+        System.out.println("hot-fix test");
     }
 }
